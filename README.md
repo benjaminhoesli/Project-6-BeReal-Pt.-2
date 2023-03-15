@@ -28,8 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://www.loom.com/share/7cb4495b0a3b4d19b14ae6dafa40ffd1">
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7cb4495b0a3b4d19b14ae6dafa40ffd1-with-play.gif">
+<a href="https://www.loom.com/share/29d7bbff77ac4008961762a3f8254dda">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/29d7bbff77ac4008961762a3f8254dda-with-play.gif">
   </a>
 
 <!-- Replace this with whatever GIF tool you used! -->
